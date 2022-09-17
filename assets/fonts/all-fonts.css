@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/l/font?kit=pxiByp8kv8JHgFVrLCz7V153FqPqISc20A&skey=cea76fe63715a67a&v=v20) format('woff2');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/l/font?kit=KFOmCnqEu92Fr1Me4H5JV1ZURLOI&skey=a0a0114a1dcab3ac&v=v30) format('woff2');
+}
+@font-face {
+  font-family: 'Saira Stencil One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/l/font?kit=SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsJcwrDufVZNjM&skey=3854f42b11687006&v=v14) format('woff2');
+}
